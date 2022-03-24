@@ -1,11 +1,11 @@
 fun main(){
-   people("Bakhita")
+   people("Sakina")
     modules(243, 575)
     add(45, 56,67)
     interesting()
 }
 fun people(name:String){
-    println("Hello Bakhita")
+    println("Hello Sakina")
 }
 fun modules(a:Int, b:Int){
     var modules=a%b
